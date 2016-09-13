@@ -1,6 +1,6 @@
 # Personal-Porfolio2
 .body{
-  backgroud-color:white;
+  backgroud-color:black;
 }
 
 .pageOne {
@@ -27,7 +27,7 @@
       <a href="#">Portfolio</a>
     </li>
     <li class="pull-right">
-      <a href="#">Coding Tutorials360</a>
+      <a href="#">Experience</a>
     </li>
     <li class="pull-right">
       <a href="#">Contact Me</a>
