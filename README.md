@@ -18,7 +18,7 @@
 
   <ul class="nav nav-pills">
     <li>
-      <a href="#">Edward L. McGehee</a>
+      <a href="#">Edward McGehee</a>
     </li>
     <li class="pull-right">
       <a href="#">About Me</a>
